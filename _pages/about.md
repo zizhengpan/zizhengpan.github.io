@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Zizheng Pan"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,6 +27,7 @@ I recently graduated from the University of Adelaide and got my Master's degree 
   <dd>September 2015 - June 2019</dd>
   <dd>B.E. in Software Engineering</dd>
 </dl>
+
 
 
 ## Publication
