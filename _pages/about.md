@@ -14,28 +14,29 @@ I recently graduated from the University of Adelaide and got my Master's degree 
 
 ## Education Experience
 
-### The University of Adelaide, Adelaide, Australia
+<img style="float: left;"  width="130" src="../images/ua_logo.png"/> **The University of Adelaide, Adelaide, Australia**
 
-Master of Computer Science
+ Master of Computer Science
 
-### Harbin Institute of Technology, Weihai, China
+July 2018 - June 2019
+
+<img align="left"  width="130" src="../images/hit_logo.png"/>**Harbin Institute of Technology, Weihai, China**
 
 Bachelor of Software Engineering
 
-
-
-## Awards
-
-### Adelaide Summer Research Scholarship
-
-April 2019
-
-### Outstanding Graduate in Harbin Institute of Technology
-
-June 2019
+September 2015 - June 2019
 
 
 
 ## Publication
 
-Yuankai Qi, Zizheng Pan, Shengping Zhang, Anton van den Hengel, Qi Wu. Object-and-Action Aware Model for Visual Language Navigation. In Proceedings of European Conference on Computer Vision (ECCV 2020), 2020.
+Yuankai Qi, **Zizheng Pan**, Shengping Zhang, Anton van den Hengel, Qi Wu. Object-and-Action Aware Model for Visual Language Navigation. In Proceedings of European Conference on Computer Vision (**ECCV 2020**), 2020.
+
+
+
+## Awards
+
+- Adelaide Summer Research Scholarship, 2019
+- Outstanding Graduate in Harbin Institute of Technology, 2019
+
+
