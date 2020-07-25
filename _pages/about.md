@@ -14,18 +14,19 @@ I recently graduated from the University of Adelaide and got my Master's degree 
 
 ## Education Experience
 
-<img style="float: left;"  width="130" src="../images/ua_logo.png"/> **The University of Adelaide, Adelaide, Australia**
-
- Master of Computer Science
-
-July 2018 - June 2019
-
-<img align="left"  width="130" src="../images/hit_logo.png"/>**Harbin Institute of Technology, Weihai, China**
-
-Bachelor of Software Engineering
-
-September 2015 - June 2019
-
+<dl>
+  <dt>
+  <img align="left" width="80" hspace="10" src="../images/ua_logo.png">
+  </dt>
+  <dt> The University of Adelaide, Adelaide, Australia</dt>
+  <dd>July 2018 - June 2020</dd>
+  <dd>Master of Computer Science</dd><dt>
+  <img align="left" width="80" hspace="10" src="../images/hit_logo.png">
+  </dt>
+  <dt> Harbin Institute of Technology, Weihai, China</dt>
+  <dd>September 2015 - June 2019</dd>
+  <dd>B.E. in Software Engineering</dd>
+</dl>
 
 
 ## Publication
