@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Zizheng Pan"
-title_separator          : "-"
-name                     : &name "Zizheng Pan"
+# title_separator          : "-"
+# name                     : &name ""
 description              : &description "Master Student at The University of Adelaide"
 url                      : https://zizhengpan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
