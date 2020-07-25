@@ -16,12 +16,12 @@ I recently graduated from the University of Adelaide and got my Master's degree 
 
 <dl>
   <dt>
-  <img align="left" width="80" hspace="10" src="../images/ua_logo.png">
+  <img align="left" width="100" hspace="10" src="../images/ua_logo.png">
   </dt>
   <dt> The University of Adelaide, Adelaide, Australia</dt>
   <dd>July 2018 - June 2020</dd>
-  <dd>Master of Computer Science</dd><dt>
-  <img align="left" width="80" hspace="10" src="../images/hit_logo.png">
+  <dd>M.S. in Computer Science</dd><dt>
+  <img align="left" width="100" hspace="10" src="../images/hit_logo.png">
   </dt>
   <dt> Harbin Institute of Technology, Weihai, China</dt>
   <dd>September 2015 - June 2019</dd>
