@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "Zizheng Pan"
+title: "Zizheng Pan"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
