@@ -13,18 +13,6 @@ I am a PhD student at Monash University working with Professor Bohan Zhuang. Pri
 Previously, I worked on Vision-and-Language Navigation. These days I am interested in Computer Vision and its related model efficiency problems. 
 
 
-## Education Experience
-<dl>
-  <dt>Monash University</dt>
-  <dd>Jan 2021 - Present, Ph.D. in Computer Science </dd>
-  <dt>The University of Adelaide</dt>
-  <dd>July 2018 - June 2020, M.S. in Computer Science</dd>
-  <dt>Harbin Institute of Technology, Weihai</dt>
-  <dd>September 2015 - June 2019, B.E. in Software Engineering</dd>
-</dl>
-
-
-
 ## Publication
 
 Yuankai Qi, **Zizheng Pan**, Shengping Zhang, Anton van den Hengel, Qi Wu. Object-and-Action Aware Model for Visual Language Navigation. In Proceedings of European Conference on Computer Vision (**ECCV 2020**), 2020.
