@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 I am a PhD student at Monash University working with Professor Bohan Zhuang. Prior to that, I completed my Master's degree in Computer Science at the University of Adelaide and got my Bachelor's degree in Software Engineering at Harbin Institute of Technology, Weihai. 
 
 Previously, I worked on Vision-and-Language Navigation. These days I am interested in Computer Vision and its related model efficiency. 
@@ -18,15 +16,22 @@ Previously, I worked on Vision-and-Language Navigation. These days I am interest
 ## Education Experience
 
 <dl>
-  <!-- <dt>
-  <img align="left" width="100" hspace="10" src="../images/ua_logo.png">
-  </dt> -->
+  <dt>
+  <img align="left" width="100" hspace="10" src="../images/monash_logo.png">
+  </dt>
+  <dt> Monash University, Melbourne, Australia</dt>
+  <dd>Jan 2021 - Present </dd>
+  <dd>Ph.D. in Computer Science</dd>
+  <dt>
+  <dt>
+  <img align="left" width="100" hspace="10" src="../images/uofa_logo.png">
+  </dt>
   <dt> The University of Adelaide, Adelaide, Australia</dt>
   <dd>July 2018 - June 2020</dd>
   <dd>M.S. in Computer Science</dd>
-  <!-- <dt>
+  <dt>
   <img align="left" width="100" hspace="10" src="../images/hit_logo.png">
-  </dt> -->
+  </dt>
   <dt> Harbin Institute of Technology, Weihai, China</dt>
   <dd>September 2015 - June 2019</dd>
   <dd>B.E. in Software Engineering</dd>
