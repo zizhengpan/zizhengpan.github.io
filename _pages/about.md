@@ -14,37 +14,23 @@ Previously, I worked on Vision-and-Language Navigation. These days I am interest
 
 
 ## Education Experience
-### Monash University
-Jan 2021 - Present
-Ph.D. in Computer Science
-
-### The University of Adelaide
-July 2018 - June 2020
-M.S. in Computer Science
-
-### Harbin Institute of Technology, Weihai
-September 2015 - June 2019
-B.E. in Software Engineering
-<!-- <dl>
+<dl>
   <dt>
-  <img align="left" width="100" hspace="10" src="../images/monash_logo.png">
+  <img align="left" width="50" hspace="10" src="../images/monash_logo.png">
   </dt>
   <dt>Monash University, Melbourne, Australia</dt>
-  <dd>Jan 2021 - Present </dd>
-  <dd>Ph.D. in Computer Science</dd>
+  <dd>Jan 2021 - Present, Ph.D. in Computer Science </dd>
   <dt>
-  <img align="left" width="100" hspace="10" src="../images/uofa_logo.png">
+  <img align="left" width="50" hspace="10" src="../images/uofa_logo.png">
   </dt>
-  <dt> The University of Adelaide, Adelaide, Australia</dt>
-  <dd>July 2018 - June 2020</dd>
-  <dd>M.S. in Computer Science</dd>
+  <dt>The University of Adelaide, Adelaide, Australia</dt>
+  <dd>July 2018 - June 2020, M.S. in Computer Science</dd>
   <dt>
-  <img align="left" width="100" hspace="10" src="../images/hit_logo.png">
+  <img align="left" width="50" hspace="10" src="../images/hit_logo.png">
   </dt>
-  <dt> Harbin Institute of Technology, Weihai, China</dt>
-  <dd>September 2015 - June 2019</dd>
-  <dd>B.E. in Software Engineering</dd>
-</dl> -->
+  <dt>Harbin Institute of Technology, Weihai, China</dt>
+  <dd>September 2015 - June 2019, B.E. in Software Engineering</dd>
+</dl>
 
 
 
