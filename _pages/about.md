@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Monash University working with Professor Bohan Zhuang. Prior to that, I completed my Master's degree in Computer Science at the University of Adelaide and got my Bachelor's degree in Software Engineering at Harbin Institute of Technology, Weihai. 
+I am a PhD student at Monash University, supervised by Professor Bohan Zhuang and Professor Jianfei Cai. Prior to that, I completed my Master's degree in Computer Science at the University of Adelaide and got my Bachelor's degree in Software Engineering at Harbin Institute of Technology, Weihai. 
 
-Previously, I worked on Vision-and-Language Navigation. These days I am interested in Computer Vision and its related model efficiency problems. 
+Previously, I worked on Vision-and-Language Navigation problems, these days I am more interested in Computer Vision and its related model efficiency problems. 
 
 
 ## Publication
