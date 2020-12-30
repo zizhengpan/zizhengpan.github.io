@@ -15,20 +15,11 @@ Previously, I worked on Vision-and-Language Navigation. These days I am interest
 
 ## Education Experience
 <dl>
-  <dt>
-  <img align="left" width="50" hspace="10" margin-top="5" src="../images/monash_logo.png">
-  </dt>
-  <dt>Monash University, Melbourne, Australia</dt>
+  <dt>Monash University</dt>
   <dd>Jan 2021 - Present, Ph.D. in Computer Science </dd>
-  <dt>
-  <img align="left" width="50" hspace="10" margin-top="5" src="../images/uofa_logo.png">
-  </dt>
-  <dt>The University of Adelaide, Adelaide, Australia</dt>
+  <dt>The University of Adelaide</dt>
   <dd>July 2018 - June 2020, M.S. in Computer Science</dd>
-  <dt>
-  <img align="left" width="50" hspace="10" margin-top="5" src="../images/hit_logo.png">
-  </dt>
-  <dt>Harbin Institute of Technology, Weihai, China</dt>
+  <dt>Harbin Institute of Technology, Weihai</dt>
   <dd>September 2015 - June 2019, B.E. in Software Engineering</dd>
 </dl>
 
