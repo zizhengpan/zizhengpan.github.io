@@ -13,8 +13,8 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
 
 ## Education
 
-- B.E in Software Engineering, Harbin Institute of Technology, Weihai, 2019.
-- M.S in Computer Science, The University of Adelaide, 2020.
+- B.E. in Software Engineering, Harbin Institute of Technology, Weihai, 2019.
+- M.S. in Computer Science, The University of Adelaide, 2020.
 - Ph.D in Computer Sience, Monash University, 2021 - Now.
 
 
