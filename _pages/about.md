@@ -11,6 +11,11 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
 
 
 
+## News
+
+- [**2021.07.23**] Two papers are accepted by ICCV 2021.
+
+
 ## Education
 
 - Ph.D in Computer Science, Monash University, 2021 - Now.
@@ -38,6 +43,7 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
   <dt ><img align="left" width="170" hspace="10" src="../images/hvt.jpg"></dt>
   <dt> Scalable visual transformers with hierarchical pooling</dt>
   <dd><strong>Zizheng Pan</strong>, Bohan Zhuang, Jing Liu, Haoyu He, Jianfei Cai</dd>	
+  <dd>International Conference on Computer Vision (<strong>ICCV</strong>), 2021</dd>
   <dd>
     <a href="https://arxiv.org/abs/2103.10619">[Paper]</a>
   </dd>
@@ -50,6 +56,7 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
   <dt ><img align="left" width="170" hspace="10" src="../images/orist.jpg"></dt>
   <dt> Know What and Know Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation</dt>
   <dd>Yuankai Qi, <strong>Zizheng Pan</strong>, Yicong Hong, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu</dd>	
+  <dd>International Conference on Computer Vision (<strong>ICCV</strong>), 2021</dd>
   <dd><a href="https://arxiv.org/abs/2104.04167">[Paper]</a></dd>
 </dl>
 
