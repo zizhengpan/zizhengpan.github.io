@@ -41,7 +41,7 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
 
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/hvt.jpg"></dt>
-  <dt> Scalable visual transformers with hierarchical pooling</dt>
+  <dt> Scalable Visual Transformers with Hierarchical Pooling</dt>
   <dd><strong>Zizheng Pan</strong>, Bohan Zhuang, Jing Liu, Haoyu He, Jianfei Cai</dd>	
   <dd>International Conference on Computer Vision (<strong>ICCV</strong>), 2021</dd>
   <dd>
