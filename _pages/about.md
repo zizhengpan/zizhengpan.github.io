@@ -81,4 +81,3 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
 
 - Adelaide Summer Research Scholarship, 2019
 - Outstanding Graduate in Harbin Institute of Technology, 2019
-
