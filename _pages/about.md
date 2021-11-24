@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://research.monash.edu/en/persons/jianfei-cai). I am a member of [Monash Green AI Lab](https://monashai.github.io/). My research focuses on model compression and efficiency.
+Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://research.monash.edu/en/persons/jianfei-cai). I am a member of [Zhuang AI Lab](https://zhuang-group.github.io/). My research focuses on model compression and efficiency.
 
 
 
@@ -28,7 +28,7 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
 ## Publication
 
 <dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/mesa.jpg"></dt>
+  <dt ><img align="left" width="170" hspace="10" src="../images/mesa.png"></dt>
   <dt> Mesa: A Memory-saving Training Framework for Transformers</dt>
   <dd><strong>Zizheng Pan</strong>, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang</dd>	
   <dd>
