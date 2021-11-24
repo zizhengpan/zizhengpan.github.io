@@ -28,6 +28,20 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
 ## Publication
 
 <dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/mesa.jpg"></dt>
+  <dt> Mesa: A Memory-saving Training Framework for Transformers</dt>
+  <dd><strong>Zizheng Pan</strong>, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang</dd>	
+  <dd>
+    <a href="https://github.com/zhuang-group/Mesa">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2111.11124">[Paper]</a>
+  </dd>
+</dl>
+
+
+------
+
+
+<dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/lit.jpg"></dt>
   <dt> Less is More: Pay Less Attention in Vision Transformers</dt>
   <dd><strong>Zizheng Pan</strong>, Bohan Zhuang, Haoyu He, Jing Liu, Jianfei Cai</dd>	
@@ -37,7 +51,9 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
   </dd>
 </dl>
 
+
 ------
+
 
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/hvt.jpg"></dt>
@@ -51,7 +67,7 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
 </dl>
 
 
----
+------
 
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/orist.jpg"></dt>
@@ -63,7 +79,7 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
 
 
 
----
+------
 
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/oaa.jpg"></dt>
