@@ -74,7 +74,10 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
   <dt> Know What and Know Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation</dt>
   <dd>Yuankai Qi, <strong>Zizheng Pan</strong>, Yicong Hong, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu</dd>	
   <dd>International Conference on Computer Vision (<strong>ICCV</strong>), 2021</dd>
-  <dd><a href="https://arxiv.org/abs/2104.04167">[Paper]</a></dd>
+  <dd>
+    <a href="https://github.com/YuankaiQi/ORIST">[Code]</a>,
+    <a href="https://arxiv.org/abs/2104.04167">[Paper]</a>
+  </dd>
 </dl>
 
 
