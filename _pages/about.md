@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://research.monash.edu/en/persons/jianfei-cai). I am a member of [Zhuang AI Group](https://zhuang-group.github.io/). My research focuses on model compression and efficiency.
+Hi 👋, I am a first-year PhD student at Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://research.monash.edu/en/persons/jianfei-cai). I am a member of [Zhuang AI Group](https://zhuang-group.github.io/). My research focuses on model compression and efficiency.
 
 
 
@@ -26,6 +26,20 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Dr. 
 
 
 ## Publication
+
+
+<dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/spvit.png"></dt>
+  <dt> Pruning Self-attentions into Convolutional Layers in Single Path</dt>
+  <dd>Haoyu He, Jing Liu, <strong>Zizheng Pan</strong>, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</dd>	
+  <dd>
+    <a href="https://github.com/zhuang-group/SPViT">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2111.11802">[Paper]</a>
+  </dd>
+</dl>
+
+
+------
 
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/mesa.png"></dt>
