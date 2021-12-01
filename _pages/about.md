@@ -60,7 +60,7 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Asst
   <dt ><img align="left" width="170" hspace="10" src="../images/lit.jpg"></dt>
   <dt> Less is More: Pay Less Attention in Vision Transformers</dt>
   <dd><strong>Zizheng Pan</strong>, Bohan Zhuang, Haoyu He, Jing Liu, Jianfei Cai</dd>	
-  <dd>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2021</dd>
+  <dd>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2022</dd>
   <dd>
     <a href="https://github.com/MonashAI/LIT">[Code]</a>, 
     <a href="https://arxiv.org/abs/2105.14217">[Paper]</a>
