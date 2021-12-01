@@ -13,7 +13,9 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Asst
 
 ## News
 
-- [**2021.07.23**] Two papers are accepted by ICCV 2021.
+- [**2021.12.01**] Our paper [LIT](https://arxiv.org/abs/2105.14217) got accepted by AAAI 2022.
+- [**2021.07.23**] Our paper [HVT](https://arxiv.org/abs/2103.10619) and [ORIST](https://arxiv.org/abs/2104.04167) got accepted by ICCV 2021.
+
 
 
 ## Education
@@ -54,16 +56,17 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Asst
 
 ------
 
-
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/lit.jpg"></dt>
   <dt> Less is More: Pay Less Attention in Vision Transformers</dt>
   <dd><strong>Zizheng Pan</strong>, Bohan Zhuang, Haoyu He, Jing Liu, Jianfei Cai</dd>	
+  <dd>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2021</dd>
   <dd>
     <a href="https://github.com/MonashAI/LIT">[Code]</a>, 
     <a href="https://arxiv.org/abs/2105.14217">[Paper]</a>
   </dd>
 </dl>
+
 
 
 ------
@@ -85,7 +88,7 @@ Hi 👋, I am a first-year PhD student at Monash University, supervised by [Asst
 
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/orist.jpg"></dt>
-  <dt> Know What and Know Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation</dt>
+  <dt> The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation</dt>
   <dd>Yuankai Qi, <strong>Zizheng Pan</strong>, Yicong Hong, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu</dd>	
   <dd>International Conference on Computer Vision (<strong>ICCV</strong>), 2021</dd>
   <dd>
