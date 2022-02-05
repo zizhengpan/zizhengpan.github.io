@@ -5,7 +5,9 @@ excerpt: ""
 author_profile: true
 ---
 
+<img src="../images/happy_new_year_2022.png" alt="happy_new_year_2022.png" style="zoom:80%;"/>
 
+# About Me
 
 Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://research.monash.edu/en/persons/jianfei-cai). I am a member of [Zhuang AI Group](https://zhuang-group.github.io/). My research focuses on model compression and efficiency.
 
