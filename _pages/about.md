@@ -5,7 +5,6 @@ excerpt: ""
 author_profile: true
 ---
 
-<img src="../images/happy_new_year_2022.png" alt="happy_new_year_2022.png" style="zoom:80%;"/>
 
 # About Me
 
