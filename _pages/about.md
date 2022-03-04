@@ -110,7 +110,9 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
   </dd>
 </dl>
 
+## Teaching
 
+- FIT5201 - Machine learning, 2022, Semester 1, TA
 
 ## Awards
 
