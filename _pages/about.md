@@ -8,7 +8,7 @@ author_profile: true
 
 # About Me
 
-Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://research.monash.edu/en/persons/jianfei-cai). I am a member of [Zhuang AI Group](https://zhuang-group.github.io/). My research focuses on model compression and efficiency.
+Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://research.monash.edu/en/persons/jianfei-cai). I am a member of [ZIP Group](https://zip-group.github.io/). My research focuses on model compression and efficiency.
 
 
 
@@ -113,6 +113,8 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
 ## Teaching
 
 - FIT5201 - Machine learning, 2022, Semester 1, TA
+
+
 
 ## Awards
 
