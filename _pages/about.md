@@ -118,5 +118,6 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
 
 ## Awards
 
+- Monash Graduate Scholarship, 2020
 - Adelaide Summer Research Scholarship, 2019
 - Outstanding Graduate in Harbin Institute of Technology, 2019
