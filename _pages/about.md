@@ -8,7 +8,7 @@ author_profile: true
 
 # About Me
 
-Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://research.monash.edu/en/persons/jianfei-cai). I am a member of [ZIP Group](https://zip-group.github.io/). My research focuses on model compression and efficiency.
+Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and [Prof. Jianfei Cai](https://scholar.google.com.au/citations?user=N6czCoUAAAAJ). I am a member of [ZIP Lab](https://ziplab.github.io/). My research focuses on model compression and efficiency.
 
 
 
@@ -32,7 +32,7 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
   <dt> Pruning Self-attentions into Convolutional Layers in Single Path</dt>
   <dd>Haoyu He, Jing Liu, <strong>Zizheng Pan</strong>, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</dd>	
   <dd>
-    <a href="https://github.com/zhuang-group/SPViT">[Code]</a>, 
+    <a href="https://github.com/ziplab/SPViT">[Code]</a>, 
     <a href="https://arxiv.org/abs/2111.11802">[Paper]</a>
   </dd>
 </dl>
@@ -45,7 +45,7 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
   <dt> Mesa: A Memory-saving Training Framework for Transformers</dt>
   <dd><strong>Zizheng Pan</strong>, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang</dd>	
   <dd>
-    <a href="https://github.com/zhuang-group/Mesa">[Code]</a>, 
+    <a href="https://github.com/ziplab/Mesa">[Code]</a>, 
     <a href="https://arxiv.org/abs/2111.11124">[Paper]</a>
   </dd>
 </dl>
@@ -61,7 +61,7 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
   <dd><strong>Zizheng Pan</strong>, Bohan Zhuang, Haoyu He, Jing Liu, Jianfei Cai</dd>	
   <dd>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2022</dd>
   <dd>
-    <a href="https://github.com/MonashAI/LIT">[Code]</a>, 
+    <a href="https://github.com/ziplab/LIT">[Code]</a>, 
     <a href="https://arxiv.org/abs/2105.14217">[Paper]</a>
   </dd>
 </dl>
@@ -77,7 +77,7 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
   <dd><strong>Zizheng Pan</strong>, Bohan Zhuang, Jing Liu, Haoyu He, Jianfei Cai</dd>	
   <dd>International Conference on Computer Vision (<strong>ICCV</strong>), 2021</dd>
   <dd>
-  	<a href="https://github.com/MonashAI/HVT">[Code]</a>,
+  	<a href="https://github.com/ziplab/HVT">[Code]</a>,
     <a href="https://arxiv.org/abs/2103.10619">[Paper]</a>
   </dd>
 </dl>
