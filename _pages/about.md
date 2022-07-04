@@ -14,8 +14,9 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
 
 ## News
 
-- [**2021.12.01**] Our paper [LIT](https://arxiv.org/abs/2105.14217) got accepted by AAAI 2022.
-- [**2021.07.23**] Our paper [HVT](https://arxiv.org/abs/2103.10619) and [ORIST](https://arxiv.org/abs/2104.04167) got accepted by ICCV 2021.
+- [**2022.07.04**] One paper is accepted by ECCV 2022.
+- [**2021.12.01**] Our paper [LIT](https://arxiv.org/abs/2105.14217) is accepted by AAAI 2022.
+- [**2021.07.23**] Our paper [HVT](https://arxiv.org/abs/2103.10619) and [ORIST](https://arxiv.org/abs/2104.04167) are accepted by ICCV 2021.
 
 
 
