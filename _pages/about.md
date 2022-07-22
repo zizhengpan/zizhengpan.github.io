@@ -14,7 +14,7 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
 
 ## News
 
-- [**2022.07.04**] One paper is accepted by ECCV 2022.
+- [**2022.07.04**] One paper [STPT](https://arxiv.org/abs/2207.10448) is accepted by ECCV 2022.
 - [**2021.12.01**] Our paper [LIT](https://arxiv.org/abs/2105.14217) is accepted by AAAI 2022.
 - [**2021.07.23**] Our paper [HVT](https://arxiv.org/abs/2103.10619) and [ORIST](https://arxiv.org/abs/2104.04167) are accepted by ICCV 2021.
 
@@ -55,6 +55,20 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
 ------
 
 ## Publications
+
+<dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/stpt.jpg"></dt>
+  <dt> An Efficient Spatio-Temporal Pyramid Transformer for Action Detection
+</dt>
+  <dd>Yuetian Weng, <strong>Zizheng Pan</strong>, Mingfei Han, Xiaojun Chang, Bohan Zhuang</dd>	
+  <dd>European Conference on Computer Vision (<strong>ECCV</strong>), 2022</dd>
+  <dd>
+    <a href="https://github.com/ziplab/STPT">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2207.10448">[Paper]</a>
+  </dd>
+</dl>
+
+------
 
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/lit.jpg"></dt>
