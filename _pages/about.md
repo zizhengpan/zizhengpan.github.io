@@ -13,7 +13,7 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
 
 
 ## News
-- [**2022.09.15**] Our [LITv2](https://arxiv.org/abs/2205.13213) and EcoFormer are accepted by NeurIPS 2022.
+- [**2022.09.15**] Our [LITv2](https://arxiv.org/abs/2205.13213) and [EcoFormer](https://github.com/ziplab/EcoFormer) are accepted by NeurIPS 2022.
 - [**2022.07.04**] Our paper [STPT](https://arxiv.org/abs/2207.10448) is accepted by ECCV 2022.
 - [**2021.12.01**] Our paper [LIT](https://arxiv.org/abs/2105.14217) is accepted by AAAI 2022.
 - [**2021.07.23**] Our paper [HVT](https://arxiv.org/abs/2103.10619) and [ORIST](https://arxiv.org/abs/2104.04167) are accepted by ICCV 2021.
