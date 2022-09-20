@@ -57,9 +57,21 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
 ## Publications
 
 <dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/ecoformer.jpg"></dt>
+  <dt> EcoFormer: Energy-Saving Attention with Linear Complexity</dt>
+  <dd>Jing Liu*, <strong>Zizheng Pan*</strong>, Haoyu He, Jianfei Cai, Bohan Zhuang (*equal contribution)</dd>
+  <dd> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022</dd>
+  <dd>
+    <a href="https://github.com/ziplab/EcoFormer">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2209.09004">[Paper]</a>
+  </dd>
+</dl>
+
+------
+
+<dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/litv2.jpg"></dt>
-  <dt> Fast Vision Transformers with HiLo Attention
-</dt>
+  <dt> Fast Vision Transformers with HiLo Attention</dt>
   <dd><strong>Zizheng Pan</strong>, Jianfei Cai, Bohan Zhuang</dd>	
   <dd> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022</dd>
   <dd>
@@ -72,8 +84,7 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
 
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/stpt.jpg"></dt>
-  <dt> An Efficient Spatio-Temporal Pyramid Transformer for Action Detection
-</dt>
+  <dt> An Efficient Spatio-Temporal Pyramid Transformer for Action Detection</dt>
   <dd>Yuetian Weng, <strong>Zizheng Pan</strong>, Mingfei Han, Xiaojun Chang, Bohan Zhuang</dd>	
   <dd>European Conference on Computer Vision (<strong>ECCV</strong>), 2022</dd>
   <dd>
