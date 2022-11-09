@@ -27,33 +27,6 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
 - B.E. in Software Engineering, Harbin Institute of Technology, Weihai, 2019.
 
 
-## Preprints
-<dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/spvit.png"></dt>
-  <dt> Pruning Self-attentions into Convolutional Layers in Single Path</dt>
-  <dd>Haoyu He, Jing Liu, <strong>Zizheng Pan</strong>, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</dd>	
-  <dd>
-    <a href="https://github.com/ziplab/SPViT">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2111.11802">[Paper]</a>
-  </dd>
-</dl>
-
-
-------
-
-<dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/mesa.png"></dt>
-  <dt> Mesa: A Memory-saving Training Framework for Transformers</dt>
-  <dd><strong>Zizheng Pan</strong>, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang</dd>	
-  <dd>
-    <a href="https://github.com/ziplab/Mesa">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2111.11124">[Paper]</a>
-  </dd>
-</dl>
-
-
-------
-
 ## Publications
 
 <dl>
@@ -149,6 +122,35 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
     <a href="https://arxiv.org/abs/2007.14626">[Paper]</a>
   </dd>
 </dl>
+
+
+
+## Preprints
+<dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/spvit.png"></dt>
+  <dt> Pruning Self-attentions into Convolutional Layers in Single Path</dt>
+  <dd>Haoyu He, Jing Liu, <strong>Zizheng Pan</strong>, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</dd>	
+  <dd>
+    <a href="https://github.com/ziplab/SPViT">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2111.11802">[Paper]</a>
+  </dd>
+</dl>
+
+
+------
+
+<dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/mesa.png"></dt>
+  <dt> Mesa: A Memory-saving Training Framework for Transformers</dt>
+  <dd><strong>Zizheng Pan</strong>, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang</dd>	
+  <dd>
+    <a href="https://github.com/ziplab/Mesa">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2111.11124">[Paper]</a>
+  </dd>
+</dl>
+
+
+------
 
 ## Teaching
 
