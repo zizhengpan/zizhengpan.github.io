@@ -37,7 +37,8 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
   <dd> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022 <font color="#c91f37">(Spotlight)</font></dd>
   <dd>
     <a href="https://github.com/ziplab/LITv2">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2205.13213">[Paper]</a>
+    <a href="https://arxiv.org/abs/2205.13213">[Paper]</a>,
+    <a href="https://openreview.net/forum?id=Pyd6Rh9r1OT">[OpenReview]</a>
   </dd>
 </dl>
 
@@ -54,7 +55,8 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
   <dd> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022  <font color="#c91f37">(Spotlight)</font></dd>
   <dd>
     <a href="https://github.com/ziplab/EcoFormer">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2209.09004">[Paper]</a>
+    <a href="https://arxiv.org/abs/2209.09004">[Paper]</a>,
+    <a href="https://openreview.net/forum?id=MK_130d4Y0">[OpenReview]</a>
   </dd>
 </dl>
 
