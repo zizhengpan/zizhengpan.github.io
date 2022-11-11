@@ -13,6 +13,7 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
 
 
 ## News
+- [**2022.11.11**] Both LITv2 and Ecoformer will be presented as Spotlight!
 - [**2022.09.15**] Our [LITv2](https://arxiv.org/abs/2205.13213) and [EcoFormer](https://github.com/ziplab/EcoFormer) are accepted by NeurIPS 2022.
 - [**2022.07.04**] Our paper [STPT](https://arxiv.org/abs/2207.10448) is accepted by ECCV 2022.
 - [**2021.12.01**] Our paper [LIT](https://arxiv.org/abs/2105.14217) is accepted by AAAI 2022.
@@ -30,28 +31,34 @@ Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. 
 ## Publications
 
 <dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/litv2.jpg"></dt>
+  <dt> Fast Vision Transformers with HiLo Attention</dt>
+  <dd><strong>Zizheng Pan</strong>, Jianfei Cai, Bohan Zhuang</dd>	
+  <dd> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), <strong><p style="color:#c91f37">Spotlight</p></strong>, 2022</dd>
+  <dd>
+    <a href="https://github.com/ziplab/LITv2">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2205.13213">[Paper]</a>
+  </dd>
+</dl>
+
+
+
+------
+
+<dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/ecoformer.jpg"></dt>
   <dt> EcoFormer: Energy-Saving Attention with Linear Complexity</dt>
   <dd>Jing Liu*, <strong>Zizheng Pan*</strong>, Haoyu He, Jianfei Cai, Bohan Zhuang (*equal contribution)</dd>
-  <dd> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022</dd>
+  <dd> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), <strong><p style="color:#c91f37">Spotlight</p></strong>,2022</dd>
   <dd>
     <a href="https://github.com/ziplab/EcoFormer">[Code]</a>, 
     <a href="https://arxiv.org/abs/2209.09004">[Paper]</a>
   </dd>
 </dl>
 
-------
 
-<dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/litv2.jpg"></dt>
-  <dt> Fast Vision Transformers with HiLo Attention</dt>
-  <dd><strong>Zizheng Pan</strong>, Jianfei Cai, Bohan Zhuang</dd>	
-  <dd> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022</dd>
-  <dd>
-    <a href="https://github.com/ziplab/LITv2">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2205.13213">[Paper]</a>
-  </dd>
-</dl>
+
+
 
 ------
 
