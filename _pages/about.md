@@ -6,7 +6,7 @@ author_profile: true
 ---
 # About Me
 
-Hi 👋, I am a 2nd-year PhD student at Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and [Prof. Jianfei Cai](https://scholar.google.com.au/citations?user=N6czCoUAAAAJ). I am a member of [ZIP Lab](https://ziplab.github.io/). My research focuses on network compression and model efficiency. Here is my [CV](../files/cv_zizheng.pdf).
+Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and [Prof. Jianfei Cai](https://scholar.google.com.au/citations?user=N6czCoUAAAAJ). I am a member of [ZIP Lab](https://ziplab.github.io/). My research focuses on network compression and model efficiency. Here is my [CV](../files/cv_zizheng.pdf).
 
 ## News
 
