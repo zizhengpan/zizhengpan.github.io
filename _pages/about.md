@@ -8,6 +8,13 @@ author_profile: true
 
 Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and [Prof. Jianfei Cai](https://scholar.google.com.au/citations?user=N6czCoUAAAAJ). I am a member of [ZIP Lab](https://ziplab.github.io/). My research focuses on network compression and model efficiency. Here is my [CV](../files/cv_zizheng.pdf).
 
+
+
+<font color="#c91f37">I am actively looking for internships in 2023 (3-6 months). Please feel free to contact me via email.</font>
+
+
+
+
 ## News
 
 - [**2022.11.11**] Both LITv2 and Ecoformer will be presented as Spotlight!
