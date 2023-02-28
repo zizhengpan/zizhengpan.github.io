@@ -36,7 +36,7 @@ Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. 
   <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/snnet.jpg"></dt>
   <dt> Stitchable Neural Networks</dt>
   <dd><strong>Zizheng Pan</strong>, Jianfei Cai, Bohan Zhuang</dd>
-  <dd> Conference on Computer Vision and Pattern Recognition(<strong>CVPR</strong>), 2023</dd>
+  <dd> Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023</dd>
   <dd>
     <a href="https://github.com/ziplab/SN-Net">[Code]</a>, 
     <a href="https://arxiv.org/abs/2302.06586">[Paper]</a>,
