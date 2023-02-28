@@ -17,6 +17,8 @@ Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. 
 
 ## News
 
+- [**2022.11.11**] Two papers are accepted by CVPR 2023!
+
 - [**2022.11.11**] Both LITv2 and Ecoformer will be presented as Spotlight!
 - [**2022.09.15**] Our [LITv2](https://arxiv.org/abs/2205.13213) and [EcoFormer](https://github.com/ziplab/EcoFormer) are accepted by NeurIPS 2022.
 - [**2022.07.04**] Our paper [STPT](https://arxiv.org/abs/2207.10448) is accepted by ECCV 2022.
@@ -30,6 +32,33 @@ Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. 
 - B.E. in Software Engineering, Harbin Institute of Technology, Weihai, 2019.
 
 ## Publications
+
+<dl>
+  <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/snnet.jpg"></dt>
+  <dt> Stitchable Neural Networks</dt>
+  <dd><strong>Zizheng Pan</strong>, Jianfei Cai, Bohan Zhuang</dd>
+  <dd> Conference on Computer Vision and Pattern Recognition(<strong>CVPR</strong>), 2023
+  <dd>
+    <a href="https://github.com/ziplab/SN-Net">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2302.06586">[Paper]</a>,
+    <a href="https://snnet.github.io/">[Project Page]</a>
+  </dd>
+</dl>
+
+---
+
+<dl>
+  <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/faseg.jpg"></dt>
+  <dt> Dynamic Focus-aware Positional Queries for Semantic Segmentation</dt>
+  <dd> Haoyu He, Jianfei Cai, <strong>Zizheng Pan</strong>, Jing liu, Jing Zhang, Dacheng Tao and Bohan Zhuang.</dd>
+  <dd> Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023
+  <dd>
+    <a href="https://github.com/ziplab/FASeg">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2204.01244">[Paper]</a>
+  </dd>
+</dl>
+
+---
 
 <dl>
   <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/litv2.jpg"></dt>
