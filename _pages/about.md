@@ -17,6 +17,7 @@ Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. 
 
 ## News
 
+- [**2023.03.22**] SN-Net was selected as a highlight at CVPR 2023!🔥
 - [**2023.02.28**] Two papers are accepted by CVPR 2023!
 - [**2022.11.11**] Both LITv2 and Ecoformer will be presented as Spotlight!
 - [**2022.09.15**] Our [LITv2](https://arxiv.org/abs/2205.13213) and [EcoFormer](https://github.com/ziplab/EcoFormer) are accepted by NeurIPS 2022.
@@ -36,7 +37,7 @@ Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. 
   <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/snnet.jpg"></dt>
   <dt> Stitchable Neural Networks</dt>
   <dd><strong>Zizheng Pan</strong>, Jianfei Cai, Bohan Zhuang</dd>
-  <dd> Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023</dd>
+  <dd> Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023 <font color="#c91f37">(Highlight)</font></dd>
   <dd>
     <a href="https://github.com/ziplab/SN-Net">[Code]</a>, 
     <a href="https://arxiv.org/abs/2302.06586">[Paper]</a>,
