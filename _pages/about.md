@@ -10,9 +10,6 @@ Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. 
 
 
 
-<font color="#c91f37">I am actively looking for internships in 2023 (3-6 months). Please feel free to contact me via email.</font>
-
-
 
 
 ## News
