@@ -10,23 +10,26 @@ Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. 
 
 
 
-
-
 ## News
 
-- [**2023.03.22**] SN-Net was selected as a highlight at CVPR 2023!🔥
-- [**2023.02.28**] Two papers are accepted by CVPR 2023!
-- [**2022.11.11**] Both LITv2 and Ecoformer will be presented as Spotlight!
-- [**2022.09.15**] Our [LITv2](https://arxiv.org/abs/2205.13213) and [EcoFormer](https://github.com/ziplab/EcoFormer) are accepted by NeurIPS 2022.
-- [**2022.07.04**] Our paper [STPT](https://arxiv.org/abs/2207.10448) is accepted by ECCV 2022.
-- [**2021.12.01**] Our paper [LIT](https://arxiv.org/abs/2105.14217) is accepted by AAAI 2022.
-- [**2021.07.23**] Our paper [HVT](https://arxiv.org/abs/2103.10619) and [ORIST](https://arxiv.org/abs/2104.04167) are accepted by ICCV 2021.
+- **2023.04.11** &emsp; I will be interning at NVIDIA Research this summer.
+- **2023.03.22** &emsp; SN-Net was selected as a highlight at CVPR 2023!🔥
+- **2023.02.28** &emsp; Two papers are accepted by CVPR 2023!
+- **2022.11.11** &emsp; Both LITv2 and Ecoformer will be presented as Spotlight!
+- **2022.09.15** &emsp; Our [LITv2](https://arxiv.org/abs/2205.13213) and [EcoFormer](https://github.com/ziplab/EcoFormer) are accepted by NeurIPS 2022.
+- **2022.07.04** &emsp; Our paper [STPT](https://arxiv.org/abs/2207.10448) is accepted by ECCV 2022.
+- **2021.12.01** &emsp; Our paper [LIT](https://arxiv.org/abs/2105.14217) is accepted by AAAI 2022.
+- **2021.07.23** &emsp; Our paper [HVT](https://arxiv.org/abs/2103.10619) and [ORIST](https://arxiv.org/abs/2104.04167) are accepted by ICCV 2021.
+
+
 
 ## Education
 
 - Ph.D in Computer Science, Monash University, 2021 - Now.
 - M.S. in Computer Science, The University of Adelaide, 2020.
 - B.E. in Software Engineering, Harbin Institute of Technology, Weihai, 2019.
+
+
 
 ## Publications
 
