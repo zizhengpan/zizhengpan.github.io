@@ -38,7 +38,7 @@ Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. 
   <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/eff_train_transformer.jpg"></dt>
   <dt> A Survey on Efficient Training of Transformers</dt>
   <dd>Bohan Zhuang, Jing Liu, <strong>Zizheng Pan</strong>, Haoyu He, Yuetian Weng, Chunhua Shen</dd>
-  <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023.
+  <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023.</dd>
   <dd> 
     <a href="https://arxiv.org/abs/2302.06586">[Paper]</a>
   </dd>
