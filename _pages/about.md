@@ -12,6 +12,7 @@ Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. 
 
 ## News
 
+- **2023.04.20** &emsp; One paper is accepted by IJCAI 2023!
 - **2023.04.11** &emsp; I will be interning at NVIDIA Research this summer.
 - **2023.03.22** &emsp; SN-Net was selected as a highlight at CVPR 2023!🔥
 - **2023.02.28** &emsp; Two papers are accepted by CVPR 2023!
@@ -32,6 +33,18 @@ Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. 
 
 
 ## Publications
+
+<dl>
+  <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/eff_train_transformer.jpg"></dt>
+  <dt> A Survey on Efficient Training of Transformers</dt>
+  <dd>Bohan Zhuang, Jing Liu, <strong>Zizheng Pan</strong>, Haoyu He, Yuetian Weng, Chunhua Shen</dd>
+  <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023.
+  <dd> 
+    <a href="https://arxiv.org/abs/2302.06586">[Paper]</a>
+  </dd>
+</dl>
+
+---
 
 <dl>
   <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/snnet.jpg"></dt>
