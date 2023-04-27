@@ -199,6 +199,7 @@ Reviewer: CVPR/ICCV/ECCV/NeurIPS
 
 ## Awards
 
+- Google Travel and Conference Grants, 2023
 - Monash Graduate Scholarship, 2020
 - Adelaide Summer Research Scholarship, 2019
 - Outstanding Graduate in Harbin Institute of Technology, 2019
