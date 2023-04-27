@@ -40,7 +40,7 @@ Hi 👋, I am a 3rd-year PhD student at Monash University, supervised by [Asst. 
   <dd>Bohan Zhuang, Jing Liu, <strong>Zizheng Pan</strong>, Haoyu He, Yuetian Weng, Chunhua Shen</dd>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023.</dd>
   <dd> 
-    <a href="https://arxiv.org/abs/2302.06586">[Paper]</a>
+    <a href="https://arxiv.org/abs/2302.01107">[Paper]</a>
   </dd>
 </dl>
 
