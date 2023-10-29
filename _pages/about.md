@@ -182,7 +182,7 @@ My research is all about **efficency** in deep neural networks, including traini
 
 ## Preprints
 
-<dl>
+<!-- <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/snnetv2.png"></dt>
   <dt> Stitched ViTs are Flexible Vision Backbones</dt>
   <dd><strong>Zizheng Pan</strong>, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang</dd>
@@ -192,7 +192,7 @@ My research is all about **efficency** in deep neural networks, including traini
   </dd>
 </dl>
 
----
+--- -->
 
 
 <dl>
