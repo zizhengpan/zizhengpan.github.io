@@ -17,6 +17,10 @@ My research is all about **efficency** in deep neural networks, including traini
 
 
 
+<font color='#D72A2A'>I am looking for full-time positions in 2024, please feel free to contact me via email.</font>
+
+
+
 ## News
 - **2023.10.25** &emsp; I gave an online talk at University of Massachusetts Amherst.
 - **2023.04.20** &emsp; One paper is accepted by IJCAI 2023!
