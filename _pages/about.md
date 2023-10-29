@@ -18,7 +18,7 @@ My research is all about **efficency** in deep neural networks, including traini
 
 
 ## News
-
+- **2023.10.25** &emsp; I gave a online talk at University of Massachusetts Amherst.
 - **2023.04.20** &emsp; One paper is accepted by IJCAI 2023!
 - **2023.04.11** &emsp; I will be interning at NVIDIA Research this summer.
 - **2023.03.22** &emsp; SN-Net was selected as a highlight at CVPR 2023!🔥
@@ -41,7 +41,7 @@ My research is all about **efficency** in deep neural networks, including traini
 
 ## Work Experience
 
-- Intern, NVIDIA, AI Algorithm Group, July, 2023 - Now
+- Intern, NVIDIA, AI Algorithm Group, July, 2023 - Oct, 2023
 
 
 
@@ -208,6 +208,9 @@ My research is all about **efficency** in deep neural networks, including traini
 
 - FIT5201 - Machine learning, 2022, TA
 
+## Talk
+
+- "Optimizing Vision Transformers for Efficient Training, Inference and Deployment", online talk at University of Massachusetts Amherst, Oct 25, 2023.
 
 
 ## Professional Activities
