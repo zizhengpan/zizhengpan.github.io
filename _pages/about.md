@@ -183,16 +183,17 @@ My research is all about **efficency** in deep neural networks, including traini
 ## Preprints
 
 <dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/spvit.png"></dt>
-  <dt> Pruning Self-attentions into Convolutional Layers in Single Path</dt>
-  <dd>Haoyu He, Jing Liu, <strong>Zizheng Pan</strong>, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</dd>
+  <dt ><img align="left" width="170" hspace="10" src="../images/snnetv2.png"></dt>
+  <dt> Stitched ViTs are Flexible Vision Backbones</dt>
+  <dd><strong>Zizheng Pan</strong>, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang</dd>
   <dd>
-    <a href="https://github.com/ziplab/SPViT">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2111.11802">[Paper]</a>
+    <a href="https://github.com/ziplab/SN-Netv2">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2307.00154">[Paper]</a>
   </dd>
 </dl>
 
 ---
+
 
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/mesa.png"></dt>
@@ -205,6 +206,19 @@ My research is all about **efficency** in deep neural networks, including traini
 </dl>
 
 ---
+
+<dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/spvit.png"></dt>
+  <dt> Pruning Self-attentions into Convolutional Layers in Single Path</dt>
+  <dd>Haoyu He, Jing Liu, <strong>Zizheng Pan</strong>, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</dd>
+  <dd>
+    <a href="https://github.com/ziplab/SPViT">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2111.11802">[Paper]</a>
+  </dd>
+</dl>
+
+---
+
 
 
 
