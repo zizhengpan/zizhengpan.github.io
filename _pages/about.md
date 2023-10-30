@@ -17,8 +17,6 @@ My research is all about **efficency** in deep neural networks, including traini
 
 
 
-<font color='#D72A2A'>I am looking for full-time positions in 2024, please feel free to contact me via email.</font>
-
 
 
 ## News
