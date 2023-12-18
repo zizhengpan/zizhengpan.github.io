@@ -9,7 +9,7 @@ author_profile: true
 Hi 👋, I am a final-year PhD student at Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and [Prof. Jianfei Cai](https://scholar.google.com.au/citations?user=N6czCoUAAAAJ). I am a member of [ZIP Lab](https://ziplab.github.io/). Previously I was a Master student at the University of Adelaide. Prior to that, I received my bachelors' degree from Harbin Institute of Technology, Weihai, a beautiful coastal campus 🏖️, which left me with cherished memories. Here is my [CV](https://zizhengpan.github.io/files/cv_zizheng.pdf).
 
 My research is all about **efficency** in deep neural networks, including training, inference, and deployment. Some topics that I currently focus on:
-- Flexible model deployment: [SN-Net](https://arxiv.org/abs/2302.06586)
+- Flexible model deployment: [SN-Net](https://arxiv.org/abs/2302.06586), [SN-Netv2](https://arxiv.org/abs/2302.06586)
 - Transformer architcture optimization: [LIT](https://arxiv.org/abs/2105.14217), [LITv2](https://arxiv.org/abs/2205.13213)
 - Efficient attention mechansims: [HiLo](https://arxiv.org/abs/2205.13213), [EcoFormer](https://arxiv.org/abs/2209.09004)
 - Token pruning/merging for inference speedup: [HVT](https://arxiv.org/abs/2103.10619)
@@ -47,7 +47,35 @@ My research is all about **efficency** in deep neural networks, including traini
 
 
 
-## Publications
+## Recent Works
+
+
+<dl>
+  <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/snnetv2.jpg"></dt>
+  <dt> Stitched ViTs are Flexible Vision Backbones</dt>
+  <dd><strong>Zizheng Pan</strong>, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang</dd>
+  <dd> ArXiv, 2023.</dd>
+  <dd> 
+    <a href="https://arxiv.org/abs/2307.00154">[Paper]</a>
+    <a href="https://github.com/ziplab/SN-Netv2">[Code]</a>, 
+  </dd>
+</dl>
+
+---
+
+<dl>
+  <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/esta.jpg"></dt>
+  <dt> Efficient Stitchable Task Adaptation</dt>
+  <dd>Haoyu He, <strong>Zizheng Pan</strong>, Jing Liu, Jianfei Cai, Bohan Zhuang</dd>
+  <dd> ArXiv, 2023.</dd>
+  <dd> 
+    <a href="https://arxiv.org/abs/2311.17352">[Paper]</a>
+    <a href="https://github.com/ziplab/Stitched_LLaMA">[Code]</a>, 
+  </dd>
+</dl>
+
+
+---
 
 <dl>
   <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/eff_train_transformer.jpg"></dt>
@@ -179,19 +207,6 @@ My research is all about **efficency** in deep neural networks, including traini
 </dl>
 
 ## Preprints
-
-<!-- <dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/snnetv2.png"></dt>
-  <dt> Stitched ViTs are Flexible Vision Backbones</dt>
-  <dd><strong>Zizheng Pan</strong>, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang</dd>
-  <dd>
-    <a href="https://github.com/ziplab/SN-Netv2">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2307.00154">[Paper]</a>
-  </dd>
-</dl>
-
---- -->
-
 
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/mesa.png"></dt>
