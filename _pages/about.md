@@ -47,8 +47,7 @@ My research is all about **efficency** in deep neural networks, including traini
 
 
 
-## Recent Works
-
+## Research
 
 <dl>
   <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/snnetv2.jpg"></dt>
@@ -71,6 +70,19 @@ My research is all about **efficency** in deep neural networks, including traini
   <dd> 
     <a href="https://arxiv.org/abs/2311.17352">[Paper]</a>
     <a href="https://github.com/ziplab/Stitched_LLaMA">[Code]</a>, 
+  </dd>
+</dl>
+
+---
+
+<dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/spvit.png"></dt>
+  <dt> Pruning Self-attentions into Convolutional Layers in Single Path</dt>
+  <dd>Haoyu He, Jing Liu, <strong>Zizheng Pan</strong>, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</dd>
+  <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023.</dd>
+  <dd>
+    <a href="https://github.com/ziplab/SPViT">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2111.11802">[Paper]</a>
   </dd>
 </dl>
 
@@ -158,6 +170,19 @@ My research is all about **efficency** in deep neural networks, including traini
 ---
 
 <dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/mesa.png"></dt>
+  <dt> Mesa: A Memory-saving Training Framework for Transformers</dt>
+  <dd><strong>Zizheng Pan</strong>, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang</dd>
+  <dd>Arxiv, 2021</dd>
+  <dd>
+    <a href="https://github.com/ziplab/Mesa">[Code]</a>, 
+    <a href="https://arxiv.org/abs/2111.11124">[Paper]</a>
+  </dd>
+</dl>
+
+---
+
+<dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/lit.jpg"></dt>
   <dt> Less is More: Pay Less Attention in Vision Transformers</dt>
   <dd><strong>Zizheng Pan</strong>, Bohan Zhuang, Haoyu He, Jing Liu, Jianfei Cai</dd>
@@ -206,34 +231,6 @@ My research is all about **efficency** in deep neural networks, including traini
   </dd>
 </dl>
 
-## Preprints
-
-<dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/mesa.png"></dt>
-  <dt> Mesa: A Memory-saving Training Framework for Transformers</dt>
-  <dd><strong>Zizheng Pan</strong>, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang</dd>
-  <dd>
-    <a href="https://github.com/ziplab/Mesa">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2111.11124">[Paper]</a>
-  </dd>
-</dl>
-
----
-
-<dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/spvit.png"></dt>
-  <dt> Pruning Self-attentions into Convolutional Layers in Single Path</dt>
-  <dd>Haoyu He, Jing Liu, <strong>Zizheng Pan</strong>, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</dd>
-  <dd>
-    <a href="https://github.com/ziplab/SPViT">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2111.11802">[Paper]</a>
-  </dd>
-</dl>
-
----
-
-
-
 
 ## Teaching
 
@@ -246,8 +243,7 @@ My research is all about **efficency** in deep neural networks, including traini
 
 ## Professional Activities
 
-Reviewer: CVPR/ICCV/ECCV/NeurIPS
-
+Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, IJCV
 
 
 ## Awards
