@@ -20,6 +20,7 @@ My research is all about **efficency** in deep neural networks, including traini
 
 
 ## News
+- **2023.12.29** &emsp; One paper is accepted by TPAMI!
 - **2023.10.25** &emsp; I gave an online talk at University of Massachusetts Amherst.
 - **2023.04.20** &emsp; One paper is accepted by IJCAI 2023!
 - **2023.04.11** &emsp; I will be interning at NVIDIA Research this summer.
