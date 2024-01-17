@@ -57,7 +57,7 @@ My research is all about **efficency** in deep neural networks, including traini
   <dd> ArXiv, 2023.</dd>
   <dd> 
     <a href="https://arxiv.org/abs/2307.00154">[Paper]</a>
-    <a href="https://github.com/ziplab/SN-Netv2">[Code]</a>, 
+    <a href="https://github.com/ziplab/SN-Netv2">[Code]</a> 
   </dd>
 </dl>
 
@@ -70,7 +70,7 @@ My research is all about **efficency** in deep neural networks, including traini
   <dd> ArXiv, 2023.</dd>
   <dd> 
     <a href="https://arxiv.org/abs/2311.17352">[Paper]</a>
-    <a href="https://github.com/ziplab/Stitched_LLaMA">[Code]</a>, 
+    <a href="https://github.com/ziplab/Stitched_LLaMA">[Code]</a> 
   </dd>
 </dl>
 
