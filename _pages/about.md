@@ -58,6 +58,7 @@ My research is all about **efficency** in deep neural networks, including traini
   <dd> 
     <a href="https://arxiv.org/abs/2307.00154">[Paper]</a>
     <a href="https://github.com/ziplab/SN-Netv2">[Code]</a> 
+    <a href="https://snnet.github.io/snnetv2/">[Project Page]</a> 
   </dd>
 </dl>
 
