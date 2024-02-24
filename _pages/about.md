@@ -51,6 +51,20 @@ My research is all about **efficency** in deep neural networks, including traini
 ## Research
 
 <dl>
+  <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/t_stitch.jpg"></dt>
+  <dt> T-Stitch: Accelerating Sampling in Pre-trained Diffusion Models with Trajectory Stitching</dt>
+  <dd><strong>Zizheng Pan</strong>, Bohan Zhuang, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar</dd>
+  <dd> ArXiv, 2024.</dd>
+  <dd> 
+    <a href="https://arxiv.org/abs/2402.14167">[Paper]</a>
+    <a href="https://github.com/NVlabs/T-Stitch">[Code]</a> 
+    <a href="https://t-stitch.github.io/">[Project Page]</a> 
+  </dd>
+</dl>
+
+---
+
+<dl>
   <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/snnetv2.jpg"></dt>
   <dt> Stitched ViTs are Flexible Vision Backbones</dt>
   <dd><strong>Zizheng Pan</strong>, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang</dd>
