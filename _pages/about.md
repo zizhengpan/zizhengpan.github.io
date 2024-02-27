@@ -20,6 +20,7 @@ My research is all about **efficency** in deep neural networks, including traini
 
 
 ## News
+- **2023.12.29** &emsp; One paper is accepted by CVPR 2024!
 - **2023.12.29** &emsp; One paper is accepted by TPAMI!
 - **2023.10.25** &emsp; I gave an online talk at University of Massachusetts Amherst.
 - **2023.04.20** &emsp; One paper is accepted by IJCAI 2023!
@@ -82,7 +83,7 @@ My research is all about **efficency** in deep neural networks, including traini
   <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/esta.jpg"></dt>
   <dt> Efficient Stitchable Task Adaptation</dt>
   <dd>Haoyu He, <strong>Zizheng Pan</strong>, Jing Liu, Jianfei Cai, Bohan Zhuang</dd>
-  <dd> ArXiv, 2023.</dd>
+  <dd> Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024</dd>
   <dd> 
     <a href="https://arxiv.org/abs/2311.17352">[Paper]</a>
     <a href="https://github.com/ziplab/Stitched_LLaMA">[Code]</a> 
