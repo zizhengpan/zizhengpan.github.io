@@ -17,6 +17,9 @@ My research is all about **efficency** in deep neural networks, including traini
 
 
 
+<font color="#c91f37">\*Personal Update\*:</font> I will join [DeepSeek](https://www.deepseek.com/) as a full-time researcher in July 2024.
+
+
 
 
 ## News
