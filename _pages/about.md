@@ -55,6 +55,18 @@ My research is all about **efficency** in deep neural networks, including traini
 ## Research
 
 <dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/minicache.jpg"></dt>
+  <dt>MiniCache: KV Cache Compression in Depth Dimension for Large Language Models</dt>
+  <dd>Akide Liu, Jing Liu, <strong>Zizheng Pan</strong>, Yefei He, Gholamreza Haffari, Bohan Zhuang</dd>
+  <dd>Arxiv, 2024</dd>
+  <dd>
+    <a href="https://arxiv.org/abs/2405.14366">[Paper]</a>
+  </dd>
+</dl>
+
+---
+
+<dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/t_stitch.jpg"></dt>
   <dt> T-Stitch: Accelerating Sampling in Pre-trained Diffusion Models with Trajectory Stitching</dt>
   <dd><strong>Zizheng Pan</strong>, Bohan Zhuang, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar</dd>
