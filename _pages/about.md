@@ -17,9 +17,6 @@ My research is all about **efficency** in deep neural networks, including traini
 
 
 
-<font color="#c91f37">*Personal Update*:</font> I will join [DeepSeek](https://www.deepseek.com/) as a full-time researcher in July 2024.
-
-
 
 
 ## News
@@ -53,6 +50,19 @@ My research is all about **efficency** in deep neural networks, including traini
 
 
 ## Research
+
+
+<dl>
+  <dt ><img align="left" width="170" hspace="10" src="../images/para.jpg"></dt>
+  <dt>PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction</dt>
+  <dd>Shangyu Chen,  <strong>Zizheng Pan</strong>, Jianfei Cai, Dinh Phung</dd>
+  <dd>Arxiv, 2024</dd>
+  <dd>
+    <a href="https://arxiv.org/abs/2406.05641">[Paper]</a>
+  </dd>
+</dl>
+
+---
 
 <dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/minicache.jpg"></dt>
