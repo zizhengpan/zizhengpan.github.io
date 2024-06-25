@@ -37,9 +37,9 @@ My research is all about **efficency** in deep neural networks, including traini
 
 ## Education
 
-- Ph.D in Computer Science, Monash University, 2021 - Now.
-- M.S. in Computer Science, The University of Adelaide, 2020.
-- B.E. in Software Engineering, Harbin Institute of Technology, Weihai, 2019.
+- Ph.D in Computer Science, Monash University, 2021 - 2024.
+- M.S. in Computer Science, The University of Adelaide, 2018 - 2020.
+- B.E. in Software Engineering, Harbin Institute of Technology, Weihai, 2015 - 2019.
 
 
 
