@@ -44,7 +44,9 @@ My research is all about **efficency** in deep neural networks, including traini
 
 ## Work Experience
 
-- Intern, NVIDIA, AI Algorithm Group, July, 2023 - Oct, 2023
+
+- Full-time researcher at DeepSeek, July, 2024 - Now.
+- Research intern at NVIDIA, AI Algorithm Group, July, 2023 - Oct, 2023
 
 
 
