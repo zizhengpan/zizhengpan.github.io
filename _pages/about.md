@@ -54,7 +54,7 @@ My research is all about **efficency** in deep neural networks, including traini
   <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/snnetv2.jpg"></dt>
   <dt> Stitched ViTs are Flexible Vision Backbones</dt>
   <dd><strong>Zizheng Pan</strong>, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang</dd>
-  <dd>European Conference on Computer Vision (<strong>ECCV</strong>), 2022</dd>
+  <dd>European Conference on Computer Vision (<strong>ECCV</strong>), 2024</dd>
   <dd> 
     <a href="https://arxiv.org/abs/2307.00154">[Paper]</a>
     <a href="https://github.com/ziplab/SN-Netv2">[Code]</a> 
