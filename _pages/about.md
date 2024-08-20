@@ -6,14 +6,25 @@ author_profile: true
 ---
 # About Me
 
-Hi 👋, I am a researcher at [DeepSeek](https://x.com/deepseek_ai). I studied my PhD at [ZIP Lab](https://ziplab.github.io/), Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and [Prof. Jianfei Cai](https://scholar.google.com.au/citations?user=N6czCoUAAAAJ). Previously I was a Master student at the University of Adelaide. Prior to that, I received my bachelors' degree from Harbin Institute of Technology, Weihai, a beautiful coastal campus 🏖️, which left me with cherished memories. Here is my [CV](https://zizhengpan.github.io/files/cv_zizheng.pdf).
+Hi 👋, I am a researcher at [DeepSeek](https://x.com/deepseek_ai). I studied my PhD at [ZIP Lab](https://ziplab.github.io/), Monash University, supervised by [Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and [Prof. Jianfei Cai](https://scholar.google.com.au/citations?user=N6czCoUAAAAJ). Previously I was a master student at the University of Adelaide. Prior to that, I received my bachelors' degree from Harbin Institute of Technology, Weihai, a beautiful coastal campus 🏖️, which left me with cherished memories. Here is my [CV](https://zizhengpan.github.io/files/cv_zizheng.pdf).
 
-My research is all about **efficency** in deep neural networks, including training, inference, and deployment. Some topics that I previously focused on:
+My research during PhD is also about **efficency** in deep neural networks, including training, inference, and deployment. Some topics that I previously focused on:
 - Flexible model deployment: [SN-Net](https://arxiv.org/abs/2302.06586), [SN-Netv2](https://arxiv.org/abs/2307.00154)
 - Transformer architcture optimization: [LIT](https://arxiv.org/abs/2105.14217), [LITv2](https://arxiv.org/abs/2205.13213)
 - Efficient attention mechansims: [HiLo](https://arxiv.org/abs/2205.13213), [EcoFormer](https://arxiv.org/abs/2209.09004)
 - Token pruning/merging for inference speedup: [HVT](https://arxiv.org/abs/2103.10619)
 - Memory-efficient training: [Mesa](https://github.com/ziplab/Mesa)
+
+Upon joining DeepSeek, I've been focusing on multimodal LLMs.
+
+
+If you are working on the following topics and interested in internship/full-time opportunities at DeepSeek, please feel free to contact me via email. We are always looking for talents!
+
+- Multimodal LLMs
+- Visual Generative Model
+- Math/Code/Alignment
+- Agent
+
 
 
 
