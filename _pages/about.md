@@ -15,20 +15,19 @@ My research during PhD is all about efficiency in deep neural networks, includin
 - Token pruning/merging for inference speedup: [HVT](https://arxiv.org/abs/2103.10619)
 - Memory-efficient training: [Mesa](https://github.com/ziplab/Mesa)
 
-Upon joining DeepSeek, I've been focusing on multimodal LLMs.
-
 
 If you are working on the following topics and interested in internship/full-time opportunities at DeepSeek, please feel free to contact me via email. We are always looking for talents!
 
 - Multimodal LLMs
 - Visual Generative Model
-- Math/Code/Alignment
+- Math/Code/LLM Alignment
 - Agent
 
 
 
 
 ## News
+- **2024.09.26** &emsp; One paper is accepted by NeurIPS 2024!
 - **2024.07.01** &emsp; First day at DeepSeek & One paper is accepted by ECCV 2024!
 - **2023.12.29** &emsp; One paper is accepted by CVPR 2024!
 - **2023.12.29** &emsp; One paper is accepted by TPAMI!
@@ -93,7 +92,7 @@ If you are working on the following topics and interested in internship/full-tim
   <dt ><img align="left" width="170" hspace="10" src="../images/minicache.jpg"></dt>
   <dt>MiniCache: KV Cache Compression in Depth Dimension for Large Language Models</dt>
   <dd>Akide Liu, Jing Liu, <strong>Zizheng Pan</strong>, Yefei He, Gholamreza Haffari, Bohan Zhuang</dd>
-  <dd>Arxiv, 2024</dd>
+  <dd> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
   <dd>
     <a href="https://arxiv.org/abs/2405.14366">[Paper]</a>
   </dd>
