@@ -6,9 +6,9 @@ author_profile: true
 ---
 # About Me
 
-Hi 👋, I am a researcher at [DeepSeek](https://x.com/deepseek_ai). I studied my PhD at [ZIP Lab](https://ziplab.github.io/), Monash University, supervised by [Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and [Prof. Jianfei Cai](https://scholar.google.com.au/citations?user=N6czCoUAAAAJ). Previously I was a master student at the University of Adelaide. Prior to that, I received my bachelors' degree from Harbin Institute of Technology, Weihai, a beautiful coastal campus 🏖️, which left me with cherished memories. Here is my [CV](https://zizhengpan.github.io/files/cv_zizheng.pdf) (usually outdated).
+Hi 👋, I am a researcher at [DeepSeek](https://x.com/deepseek_ai). I studied my PhD at [ZIP Lab](https://ziplab.github.io/), Monash University, supervised by [Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and [Prof. Jianfei Cai](https://scholar.google.com.au/citations?user=N6czCoUAAAAJ). Previously I was a master student at the University of Adelaide. Prior to that, I received my bachelors' degree from Harbin Institute of Technology, Weihai, a beautiful coastal campus 🏖️, which left me with cherished memories.
 
-My research during PhD is all about efficiency in deep neural networks, including training, inference, and deployment. Some topics that I previously focused on:
+My research during my PhD focused on efficiency in deep neural networks, including training, inference, and deployment. Some topics that I previously focused on:
 - Flexible model deployment: [SN-Net](https://arxiv.org/abs/2302.06586), [SN-Netv2](https://arxiv.org/abs/2307.00154)
 - Transformer architcture optimization: [LIT](https://arxiv.org/abs/2105.14217), [LITv2](https://arxiv.org/abs/2205.13213)
 - Efficient attention mechansims: [HiLo](https://arxiv.org/abs/2205.13213), [EcoFormer](https://arxiv.org/abs/2209.09004)
@@ -16,17 +16,14 @@ My research during PhD is all about efficiency in deep neural networks, includin
 - Memory-efficient training: [Mesa](https://github.com/ziplab/Mesa)
 
 
-If you are working on the following topics and interested in internship/full-time opportunities at DeepSeek, please feel free to contact me via email. We are always looking for talents!
+Since 2024, I've been working on Multimodal LLMs at DeepSeek. If you are working on the following topics and interested in internship/full-time opportunities at DeepSeek, please feel free to contact me via email. We are always looking for talents!
 
-- Multimodal LLMs
-- Visual Generative Model
-- Math/Code/LLM Alignment
-- Agent
-
+- VLM data and training.
+- Math/Code/LLM Alignment.
+- Agent Research/Infra.
 
 
-
-## News
+<!-- ## News
 - **2024.09.26** &emsp; One paper is accepted by NeurIPS 2024!
 - **2024.07.01** &emsp; First day at DeepSeek & One paper is accepted by ECCV 2024!
 - **2023.12.29** &emsp; One paper is accepted by CVPR 2024!
@@ -42,7 +39,7 @@ If you are working on the following topics and interested in internship/full-tim
 - **2021.12.01** &emsp; Our paper [LIT](https://arxiv.org/abs/2105.14217) is accepted by AAAI 2022.
 - **2021.07.23** &emsp; Our paper [HVT](https://arxiv.org/abs/2103.10619) and [ORIST](https://arxiv.org/abs/2104.04167) are accepted by ICCV 2021.
 
-
+ -->
 
 ## Education
 
@@ -60,7 +57,7 @@ If you are working on the following topics and interested in internship/full-tim
 
 
 
-## Research
+## Selected Publications
 
 <dl>
   <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/snnetv2.jpg"></dt>
@@ -71,18 +68,6 @@ If you are working on the following topics and interested in internship/full-tim
     <a href="https://arxiv.org/abs/2307.00154">[Paper]</a>
     <a href="https://github.com/ziplab/SN-Netv2">[Code]</a> 
     <a href="https://snnet.github.io/snnetv2/">[Project Page]</a> 
-  </dd>
-</dl>
-
----
-
-<dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/para.jpg"></dt>
-  <dt>PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction</dt>
-  <dd>Shangyu Chen,  <strong>Zizheng Pan</strong>, Jianfei Cai, Dinh Phung</dd>
-  <dd>Arxiv, 2024</dd>
-  <dd>
-    <a href="https://arxiv.org/abs/2406.05641">[Paper]</a>
   </dd>
 </dl>
 
@@ -111,46 +96,6 @@ If you are working on the following topics and interested in internship/full-tim
   </dd>
 </dl>
 
-
----
-
-<dl>
-  <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/esta.jpg"></dt>
-  <dt> Efficient Stitchable Task Adaptation</dt>
-  <dd>Haoyu He, <strong>Zizheng Pan</strong>, Jing Liu, Jianfei Cai, Bohan Zhuang</dd>
-  <dd> Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024</dd>
-  <dd> 
-    <a href="https://arxiv.org/abs/2311.17352">[Paper]</a>
-    <a href="https://github.com/ziplab/Stitched_LLaMA">[Code]</a> 
-  </dd>
-</dl>
-
----
-
-<dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/spvit.png"></dt>
-  <dt> Pruning Self-attentions into Convolutional Layers in Single Path</dt>
-  <dd>Haoyu He, Jing Liu, <strong>Zizheng Pan</strong>, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</dd>
-  <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023.</dd>
-  <dd>
-    <a href="https://github.com/ziplab/SPViT">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2111.11802">[Paper]</a>
-  </dd>
-</dl>
-
-
----
-
-<dl>
-  <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/eff_train_transformer.jpg"></dt>
-  <dt> A Survey on Efficient Training of Transformers</dt>
-  <dd>Bohan Zhuang, Jing Liu, <strong>Zizheng Pan</strong>, Haoyu He, Yuetian Weng, Chunhua Shen</dd>
-  <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023.</dd>
-  <dd> 
-    <a href="https://arxiv.org/abs/2302.01107">[Paper]</a>
-  </dd>
-</dl>
-
 ---
 
 <dl>
@@ -162,19 +107,6 @@ If you are working on the following topics and interested in internship/full-tim
     <a href="https://github.com/ziplab/SN-Net">[Code]</a>, 
     <a href="https://arxiv.org/abs/2302.06586">[Paper]</a>,
     <a href="https://snnet.github.io/">[Project Page]</a>
-  </dd>
-</dl>
-
----
-
-<dl>
-  <dt ><img align="left" width="170" hspace="10"  wspace="20" src="../images/faseg.jpg"></dt>
-  <dt> Dynamic Focus-aware Positional Queries for Semantic Segmentation</dt>
-  <dd> Haoyu He, Jianfei Cai, <strong>Zizheng Pan</strong>, Jing liu, Jing Zhang, Dacheng Tao and Bohan Zhuang.</dd>
-  <dd> Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023</dd>
-  <dd>
-    <a href="https://github.com/ziplab/FASeg">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2204.01244">[Paper]</a>
   </dd>
 </dl>
 
@@ -209,32 +141,6 @@ If you are working on the following topics and interested in internship/full-tim
 ---
 
 <dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/stpt.jpg"></dt>
-  <dt> An Efficient Spatio-Temporal Pyramid Transformer for Action Detection</dt>
-  <dd>Yuetian Weng, <strong>Zizheng Pan</strong>, Mingfei Han, Xiaojun Chang, Bohan Zhuang</dd>
-  <dd>European Conference on Computer Vision (<strong>ECCV</strong>), 2022</dd>
-  <dd>
-    <a href="https://github.com/ziplab/STPT">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2207.10448">[Paper]</a>
-  </dd>
-</dl>
-
----
-
-<dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/mesa.png"></dt>
-  <dt> Mesa: A Memory-saving Training Framework for Transformers</dt>
-  <dd><strong>Zizheng Pan</strong>, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang</dd>
-  <dd>Arxiv, 2021</dd>
-  <dd>
-    <a href="https://github.com/ziplab/Mesa">[Code]</a>, 
-    <a href="https://arxiv.org/abs/2111.11124">[Paper]</a>
-  </dd>
-</dl>
-
----
-
-<dl>
   <dt ><img align="left" width="170" hspace="10" src="../images/lit.jpg"></dt>
   <dt> Less is More: Pay Less Attention in Vision Transformers</dt>
   <dd><strong>Zizheng Pan</strong>, Bohan Zhuang, Haoyu He, Jing Liu, Jianfei Cai</dd>
@@ -257,32 +163,6 @@ If you are working on the following topics and interested in internship/full-tim
     <a href="https://arxiv.org/abs/2103.10619">[Paper]</a>
   </dd>
 </dl>
-
----
-
-<dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/orist.jpg"></dt>
-  <dt> The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation</dt>
-  <dd>Yuankai Qi, <strong>Zizheng Pan</strong>, Yicong Hong, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu</dd>
-  <dd>International Conference on Computer Vision (<strong>ICCV</strong>), 2021</dd>
-  <dd>
-    <a href="https://github.com/YuankaiQi/ORIST">[Code]</a>,
-    <a href="https://arxiv.org/abs/2104.04167">[Paper]</a>
-  </dd>
-</dl>
-
----
-
-<dl>
-  <dt ><img align="left" width="170" hspace="10" src="../images/oaa.jpg"></dt>
-  <dt> Object-and-Action Aware Model for Visual Language Navigation</dt>
-  <dd>Yuankai Qi, <strong>Zizheng Pan</strong>, Shengping Zhang, Anton van den Hengel, Qi Wu</dd>
-  <dd>European Conference on Computer Vision (<strong>ECCV</strong>), 2020</dd>
-  <dd>
-    <a href="https://arxiv.org/abs/2007.14626">[Paper]</a>
-  </dd>
-</dl>
-
 
 ## Teaching
 
