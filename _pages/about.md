@@ -6,7 +6,7 @@ author_profile: true
 ---
 # About Me
 
-Hi 👋, I am a researcher at DeepSeek. I pursued my PhD at [ZIP Lab](https://ziplab.github.io/), Monash University, under the supervision of [Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and [Prof. Jianfei Cai](https://scholar.google.com.au/citations?user=N6czCoUAAAAJ). Previously, I was a master's student at the University of Adelaide. Prior to that, I received my bachelor's degree from Harbin Institute of Technology, Weihai. My time on its beautiful coastal campus 🏖️ left me with many cherished memories.
+Hi 👋, I am a researcher at DeepSeek. I pursued my PhD at [ZIP Lab](https://ziplab.github.io/), Monash University, under the supervision of [Prof. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://jianfei-cai.github.io/). Previously, I was a master's student at the University of Adelaide. Prior to that, I received my bachelor's degree from Harbin Institute of Technology, Weihai. My time on its beautiful coastal campus 🏖️ left me with many cherished memories.
 
 <!-- My research during my PhD focused on efficiency in deep neural networks, including training, inference, and deployment. Some topics that I previously focused on:
 - Flexible model deployment: [SN-Net](https://arxiv.org/abs/2302.06586), [SN-Netv2](https://arxiv.org/abs/2307.00154)
